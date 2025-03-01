@@ -9,8 +9,6 @@
 // @match        *://*/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png
 // @grant        none
-// @downloadURL
-// @updateURL
 // ==/UserScript==
 (function () {
     "use strict";
