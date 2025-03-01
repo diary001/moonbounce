@@ -9,6 +9,8 @@
 // @match        *://*/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/528404/Moonbounce%20Dyslexia%20Theme.user.js
+// @updateURL https://update.greasyfork.org/scripts/528404/Moonbounce%20Dyslexia%20Theme.meta.js
 // ==/UserScript==
 (function () {
     "use strict";
